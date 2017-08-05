@@ -1,0 +1,15 @@
+{
+  "name": "redisearch",
+  "version": "1.0.0",
+  "description": "RediSearch bindings for node_redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "redisearch"
+  ],
+  "author": "Kyle J Davis",
+  "license": "MIT"
+}
