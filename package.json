@@ -1,5 +1,5 @@
 {
-  "name": "redisearch",
+  "name": "redis-redisearch",
   "version": "1.0.0",
   "description": "RediSearch bindings for node_redis",
   "main": "index.js",
