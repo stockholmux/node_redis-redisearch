@@ -1,6 +1,6 @@
 # RediSearch Module plugin for node_redis
 
-This package allows [node_redis](https://github.com/stockholmux/node_redis) (2.8+) to interface with the Redis module [RediSearch](http://redisearch.io/).
+This package allows [node_redis](https://github.com/NodeRedis/node_redis) (2.8+) to interface with the Redis module [RediSearch](http://redisearch.io/).
 
 To use this module, you will need Redis 4.0 or higher and the redisearch module installed.
 
