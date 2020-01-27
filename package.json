@@ -1,5 +1,4 @@
 {
-
   "name": "redis-redisearch",
   "version": "1.0.1",
   "description": "RediSearch bindings for node_redis",
@@ -7,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository" : "https://github.com/stockholmux/node_redis-redisearch",
+  "repository": "https://github.com/stockholmux/node_redis-redisearch",
   "keywords": [
     "redis",
     "redisearch"
