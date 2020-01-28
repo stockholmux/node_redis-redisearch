@@ -1,3 +1,6 @@
+[![Actions Status](https://github.com/stockholmux/node_redis-redisearch/workflows/CI/badge.svg)](https://github.com/stockholmux/node_redis-redisearch/actions)
+[![npm version](https://badge.fury.io/js/redis-redisearch.svg)](https://badge.fury.io/js/redis-redisearch)
+
 # RediSearch Module plugin for node_redis
 
 This package allows [node_redis](https://github.com/NodeRedis/node_redis) (2.8+) to interface with the Redis module [RediSearch](http://redisearch.io/).
