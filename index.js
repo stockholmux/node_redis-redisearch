@@ -8,7 +8,7 @@ function addRediSearchModule(redis) {
   redis.addCommand('ft.del');
   redis.addCommand('ft.drop');
   redis.addCommand('ft.optimize');
-  redis.addCommand('ft.suggadd');
+  redis.addCommand('ft.sugadd');
   redis.addCommand('ft.sugget');
   redis.addCommand('ft.sugdel');
   redis.addCommand('ft.suglen');
