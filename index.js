@@ -2,6 +2,7 @@ function addRediSearchModule(redis) {
   redis.addCommand('ft.create');
   redis.addCommand('ft.add');
   redis.addCommand('ft.addhash');
+  redis.addCommand('ft.aggregate');
   redis.addCommand('ft.info');
   redis.addCommand('ft.search');
   redis.addCommand('ft.explain');
