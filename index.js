@@ -15,6 +15,5 @@ function addRediSearchModule(redis) {
   redis.addCommand('ft.suglen');
   redis.addCommand('ft.get');
   redis.addCommand('ft.mget');
-  redis.addCommand('ft.aggregate');
 }
 module.exports = addRediSearchModule;
